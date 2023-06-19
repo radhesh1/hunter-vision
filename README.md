@@ -7,7 +7,7 @@ Predator Vision uses the HTML5 getUserMedia API and WebGL to transform a video s
 
 If your browser is not supported you can watch a [demo video](http://www.youtube.com/watch?v=a_4ZhcT9hSs).
 
-<img src="https://radhesh1.github.com/images/predator-screenshot.png" />
+<img src="images/screenshot.png"" />
 
 ## Supported browsers
 
@@ -23,7 +23,7 @@ If your browser is not supported you can watch a [demo video](http://www.youtube
 
 ## Author
 
-**Andrei Gheorghe**
+**Radhesh Goel**
 
 * [About me](https://portfolio-radhesh1.vercel.app/)
 * LinkedIn: [linkedin.com/in/idevelop](http://www.linkedin.com/in/radhesh-g)
