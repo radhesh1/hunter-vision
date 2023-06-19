@@ -1,6 +1,6 @@
 /*
  * Predator Vision
- * http://radhesh1.github.com/predator-vision/
+ * https://hunter-vision.vercel.app/
  *
  * Copyright 2023, Radhesh Goel (http://github.com/radhesh1)
  * Released under the MIT license
