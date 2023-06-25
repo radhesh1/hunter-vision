@@ -27,7 +27,7 @@ If your browser is not supported you can watch a [demo video](http://www.youtube
 
 * [About me](https://portfolio-radhesh1.vercel.app/)
 * LinkedIn: [linkedin.com/in/idevelop](http://www.linkedin.com/in/radhesh-g)
-* Twitter: [@radhesh1](https://twitter.com/Radhesh_Goel)
+* Twitter: [@Radhesh_Goel](https://twitter.com/Radhesh_Goel)
 
 ## License
 
