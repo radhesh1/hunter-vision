@@ -1,7 +1,7 @@
-Predator Vision
+Hunter Vision
 ===============
 
-Predator Vision uses the HTML5 getUserMedia API and WebGL to transform a video stream from your webcam into a real-time movement-triggered heatmap representation. 
+Hunter Vision uses the HTML5 getUserMedia API and WebGL to transform a video stream from your webcam into a real-time movement-triggered heatmap representation. 
 
 **[See it in action](https://hunter-vision.vercel.app/)**.
 
